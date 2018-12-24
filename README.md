@@ -10,6 +10,6 @@ Entry for the 2018 UE4 Spring Jam.
  
 ## Controls
 
-Left-click: Drop seed
-Right-click: Speed up
-R: Restart level
+ - Left-click: Drop seed
+ - Right-click: Speed up
+ - R: Restart level
